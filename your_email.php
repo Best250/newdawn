@@ -1,5 +1,5 @@
 <?php
 // Enter reciever email here
-$your_email = "your@email.com"
+$your_email = "henwood840@gmail.com"
 
 ?>
